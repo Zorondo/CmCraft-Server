@@ -1,0 +1,80 @@
+inventory:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4556
+  id: minecraft:shield
+  count: 1
+  schema_version: 1
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+armor:
+- null
+- null
+- null
+- null
+requirePermission: false
+icon:
+  ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4556
+  id: minecraft:snow_block
+  count: 1
+  schema_version: 1
+lockedIcon:
+  ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4556
+  id: minecraft:barrier
+  count: 1
+  schema_version: 1
+position: 4
+page: 1
+name: Щитовик
+enabled: true
+lores:
+  unlocked:
+  - Lore line 1
+  locked: '&cA permission is required to unlock this kit!'
+gameSettings:
+  noRegen: false
+  noPvp: false
+  soupPvp: false
+  noFallDamage: false
+filename: щитовик

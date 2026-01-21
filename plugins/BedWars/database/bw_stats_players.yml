@@ -1,0 +1,49 @@
+data:
+  af109fea-7aa8-3220-8452-6cf7a55725be:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 1
+    name: lufina
+    destroyedBeds: 0
+    deaths: 2
+  81b21c8e-f6e7-37c0-8bf4-cda31f31c524:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 1
+    name: TsterbenT
+    destroyedBeds: 0
+    deaths: 2
+  0354e5ef-2af1-36c2-9635-014e37426e9b:
+    kills: 3
+    wins: 1
+    score: 205
+    loses: 0
+    name: krutoylox
+    destroyedBeds: 1
+    deaths: 1
+  c0cdbe2b-e3fc-38c0-b7af-40b1d92864b8:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 0
+    name: Pr9nick_
+    destroyedBeds: 0
+    deaths: 0
+  ceb20c86-7b0f-32d8-87b1-760e1d3f08f5:
+    kills: 1
+    wins: 1
+    score: 185
+    loses: 0
+    name: omni_keycard
+    destroyedBeds: 1
+    deaths: 0
+  42c3fc1a-776e-3425-a325-fdfa1b394525:
+    kills: 1
+    wins: 1
+    score: 160
+    loses: 1
+    name: WiFi1
+    destroyedBeds: 0
+    deaths: 1

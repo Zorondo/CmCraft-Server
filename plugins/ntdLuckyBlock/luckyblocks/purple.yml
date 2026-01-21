@@ -1,0 +1,97 @@
+texture: 6cfb4ebc3ba4fec04d8978a1660bb7c98e96342ff2a238ada9df2f74bf032b40
+name: '&5Purple LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 2'
+  '1':
+  - 'ITEM : YELLOW_TERRACOTTA : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  '2':
+  - 'ITEM : GRAY_TERRACOTTA : 8 : 0'
+  - 'ENTITY : OAK_BOAT : 2'
+  '3':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : MUDDY_MANGROVE_ROOTS : 64 : 0'
+  '4':
+  - 'ENTITY : STRAY : 2'
+  - 'ENTITY : LINGERING_POTION : 2'
+  '5':
+  - 'ITEM : HEAVY_WEIGHTED_PRESSURE_PLATE : 16 : 0'
+  '6':
+  - 'ITEM : FARMLAND : 64 : 0'
+  - 'ITEM : PINK_PETALS : 64 : 0'
+  - 'ENTITY : CHEST_MINECART : 4'
+  '7':
+  - 'ITEM : RED_CANDLE : 32 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : ITEM_FRAME : 3'
+  '8':
+  - 'ITEM : CHAINMAIL_BOOTS : 1 : 0'
+  - 'ITEM : IRON_CHAIN : 16 : 0'
+  '9':
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 4'
+  '10':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 4'
+  '11':
+  - 'ITEM : ENCHANTING_TABLE : 32 : 0'
+  - 'ENTITY : SPECTRAL_ARROW : 1'
+  - 'ITEM : LLAMA_SPAWN_EGG : 35 : 0'
+  '12':
+  - 'ITEM : DEAD_TUBE_CORAL_FAN : 8 : 0'
+  - 'ITEM : YELLOW_DYE : 6 : 0'
+  '13':
+  - 'ITEM : DARK_OAK_LOG : 64 : 0'
+  - 'ITEM : CREEPER_SPAWN_EGG : 41 : 0'
+  '14':
+  - 'ENTITY : DARK_OAK_CHEST_BOAT : 2'
+  - 'ITEM : LEATHER_BOOTS : 1 : 0'
+  - 'ENTITY : PALE_OAK_BOAT : 2'
+  '15':
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 1'
+  - 'ITEM : EXPOSED_COPPER_DOOR : 32 : 0'
+  '16':
+  - 'ITEM : PALE_OAK_HANGING_SIGN : 16 : 0'
+  - 'ITEM : LIGHT_GRAY_STAINED_GLASS : 8 : 0'
+  - 'ITEM : GRAY_CARPET : 32 : 0'
+  '17':
+  - 'ITEM : POLISHED_BLACKSTONE_BRICK_WALL : 16 : 0'
+  '18':
+  - 'ITEM : JUNGLE_LOG : 32 : 0'
+  - 'ENTITY : BIRCH_CHEST_BOAT : 2'
+  '19':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 4'
+  - 'ITEM : INFESTED_STONE : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIME : 3'
+  - 'SPECIAL : PIG : 7'
+  '20':
+  - 'ITEM : SALMON_BUCKET : 1 : 0'
+  '21':
+  - 'ITEM : FURNACE : 32 : 0'
+  - 'ITEM : GHAST_TEAR : 49 : 0'
+  '22':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  - 'ITEM : CHERRY_PRESSURE_PLATE : 8 : 0'
+  '23':
+  - 'ITEM : WHITE_STAINED_GLASS : 64 : 0'
+  '24':
+  - 'ENTITY : SKELETON : 2'
+  - 'ITEM : MUSIC_DISC_FAR : 1 : 0'
+  '25':
+  - 'ENTITY : BREEZE_WIND_CHARGE : 1'
+  - 'ITEM : CHAINMAIL_LEGGINGS : 1 : 0'
+  '26':
+  - 'ITEM : DEEPSLATE_DIAMOND_ORE : 8 : 0'
+  '27':
+  - 'ITEM : LIME_GLAZED_TERRACOTTA : 32 : 0'
+  '28':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 1'
+eco: true

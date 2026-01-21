@@ -1,0 +1,141 @@
+menu_title: '&e&lArenas'
+open_command:
+
+    maps
+
+
+register_command: true
+
+size: 45
+items:
+  'info':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY5MTk2YjMzMGM2Yjg5NjJmMjNhZDU2MjdmYjZlY2NlNDcyZWFmNWM5ZDQ0Zjc5MWY2NzA5YzdkMGY0ZGVjZSJ9fX0='
+    slot: 5
+    display_name: '&6&lКарты!'
+
+  'skywar':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2MxZGYwZGI4ZDQ3NzNjYzI1NWE2M2I4ZjBiMGU0Y2RkN2Q3NGMzYjRjNjc1MzYyMTY4NDYwYmM2N2JiMzAyZSJ9fX0=='
+    slot: 10
+    display_name: '&7&lSkywar'
+    lore:
+
+    ''
+    '&5Карта с ивента войны'
+
+
+    left_click_commands:
+
+    '[close]'
+    '[player] bw join skywar'
+
+    right_click_commands:
+
+    '[close]'
+    '[player] bw join skywar'
+
+
+  'forest':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ3NDI4MzlkMzQxMjVkMTI4ZGY0ZTIzZWI2Mzc0OTgyYWM2N2Q3MmNiZjYzOTI1ZWQ2OTFlOTNjMjRlZmMzNyJ9fX0='
+    slot: 11
+    display_name: '&7&lForest'
+    lore:
+
+    ''
+    '&5Лес'
+
+    left_click_commands:
+
+    '[close]'
+    '[player] bw join forest'
+
+    right_click_commands:
+
+    '[close]'
+    '[player] bw join forest'
+
+#    'castle':
+#    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODhiNzY3YzhhMWVhOGU0MDRiM2NjYTg1MzQ5ZjY1M2I1N2IwYzNmNDY0MjdmYmVjZWFjY2YzNjAyYmMyOWUifX19='
+ #   slot: 11
+  #  display_name: '&7&lCastle'
+  #  lore:
+
+ #   ''
+  #  '&5Замок'
+
+   # left_click_commands:
+
+    #'[close]'
+ #   '[player] bw join castle'
+
+ #   right_click_commands:
+
+#    '[close]'
+ #   '[player] bw join castle'
+
+  #  'fortress':
+ #   material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjExN2VhMWQ2NjJjNDNlYTMxZWNmOTk2ZWYwM2FiYjAwODhiMDAxNWE3MmI2OWQyMmE1Yzk0MzJiNDQwYzZlYyJ9fX0=='
+ #   slot: 12
+  #  display_name: '&7&lFortrest'
+   # lore:
+
+    #''
+  #  '&5Крепости'
+
+   # left_click_commands:
+
+   # '[close]'
+   # '[player] bw join fortress'
+
+  #  right_click_commands:
+
+   # '[close]'
+   # '[player] bw join fortress'
+
+
+
+  'glass2':
+    material: BLACK_STAINED_GLASS_PANE
+    data: 0
+    slots:
+
+    0
+    1
+    2
+    3
+    4
+    6
+    7
+    8
+    9
+    18
+    27
+    36
+    37
+    38
+    39
+    41
+    42
+    43
+    44
+    17
+    26
+    35
+
+
+  'close':
+    material: 'BARRIER'
+    slot: 40
+    display_name: '&cExit'
+    lore:
+
+    ''
+    '&cClick to close'
+
+    left_click_commands:
+
+    '[close]'
+
+    right_click_commands:
+
+    '[close]'
+

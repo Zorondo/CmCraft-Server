@@ -1,0 +1,85 @@
+texture: d019fe633a45fc3d353f9a2f09fd88e721de31c2bc969ae0aeeadf57c1be0bcc
+name: '&7Light gray LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : SHEEP_SPAWN_EGG : 46 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '1':
+  - 'ITEM : BLADE_POTTERY_SHERD : 50 : 0'
+  - 'ITEM : FERMENTED_SPIDER_EYE : 3 : 0'
+  '2':
+  - 'ITEM : PLAYER_HEAD : 32 : 0'
+  - 'ENTITY : TURTLE : 3'
+  '3':
+  - 'ENTITY : PILLAGER : 4'
+  - 'ENTITY : INTERACTION : 1'
+  - 'ITEM : GOLDEN_CARROT : 17 : 0'
+  - 'ENTITY : LLAMA : 4'
+  '4':
+  - 'ITEM : CHAINMAIL_HELMET : 1 : 0'
+  - 'ITEM : TROPICAL_FISH_BUCKET : 1 : 0'
+  - 'ITEM : PLENTY_POTTERY_SHERD : 5 : 0'
+  - 'ITEM : GRAY_CONCRETE_POWDER : 8 : 0'
+  '5':
+  - 'ITEM : CYAN_DYE : 56 : 0'
+  - 'ITEM : SCULK_SENSOR : 64 : 0'
+  - 'ITEM : LILY_OF_THE_VALLEY : 64 : 0'
+  '6':
+  - 'ITEM : STRIPPED_BIRCH_WOOD : 16 : 0'
+  '7':
+  - 'ITEM : SANDSTONE_SLAB : 8 : 0'
+  - 'ITEM : WOODEN_AXE : 1 : 0'
+  - 'ENTITY : EVOKER_FANGS : 4'
+  '8':
+  - 'ITEM : ICE : 16 : 0'
+  '9':
+  - 'ITEM : APPLE : 42 : 0'
+  - 'ENTITY : DARK_OAK_BOAT : 1'
+  '10':
+  - 'ENTITY : LEASH_KNOT : 3'
+  - 'ITEM : OAK_BUTTON : 64 : 0'
+  '11':
+  - 'ITEM : QUARTZ_BLOCK : 32 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '12':
+  - 'ENTITY : HOGLIN : 4'
+  '13':
+  - 'ENTITY : OAK_CHEST_BOAT : 1'
+  '14':
+  - 'ITEM : DIAMOND_ORE : 8 : 0'
+  - 'ENTITY : SNOWBALL : 3'
+  '15':
+  - 'ITEM : REDSTONE_LAMP : 8 : 0'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  - 'ENTITY : AXOLOTL : 2'
+  '17':
+  - 'ITEM : GLASS_BOTTLE : 55 : 0'
+  - 'ITEM : CHERRY_TRAPDOOR : 8 : 0'
+  '18':
+  - 'ITEM : POTION : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : RED : 1'
+  '19':
+  - 'ITEM : DEEPSLATE_COPPER_ORE : 16 : 0'
+  - 'ITEM : BAMBOO_BLOCK : 64 : 0'
+  - 'ITEM : MUSIC_DISC_FAR : 1 : 0'
+  '20':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 2'
+  - 'ITEM : RAISER_ARMOR_TRIM_SMITHING_TEMPLATE : 20 : 0'
+  '21':
+  - 'ENTITY : HOGLIN : 3'
+  '22':
+  - 'ENTITY : PAINTING : 1'
+  '23':
+  - 'ITEM : CRIMSON_DOOR : 64 : 0'
+  - 'ENTITY : FIREWORK_ROCKET : 4'
+eco: true

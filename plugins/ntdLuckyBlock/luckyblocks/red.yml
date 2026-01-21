@@ -1,0 +1,159 @@
+texture: 29942dd1338abeae8b8274a41ae1dcdf2b7be449f28d6b650ec06e491e70f570
+name: '&4Red LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : TURTLE_EGG : 64 : 0'
+  - 'ENTITY : PILLAGER : 1'
+  '1':
+  - 'ITEM : WAXED_WEATHERED_CUT_COPPER_SLAB : 64 : 0'
+  - 'ENTITY : ARMADILLO : 1'
+  - 'ITEM : IRON_CHAIN : 8 : 0'
+  - 'ITEM : WAXED_OXIDIZED_LIGHTNING_ROD : 16 : 0'
+  '2':
+  - 'ITEM : BRICK : 42 : 0'
+  - 'LUCKY_BLOCK_ITEM : CYAN : 4'
+  '3':
+  - 'ITEM : CHAINMAIL_CHESTPLATE : 1 : 0'
+  '4':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : GUARDIAN : 4'
+  '5':
+  - 'ENTITY : BLOCK_DISPLAY : 3'
+  - 'ITEM : BLACK_CONCRETE : 8 : 0'
+  '6':
+  - 'LUCKY_BLOCK_ITEM : WHITE : 3'
+  - 'ITEM : RED_CONCRETE_POWDER : 8 : 0'
+  '7':
+  - 'ENTITY : SALMON : 3'
+  - 'ITEM : PALE_MOSS_BLOCK : 32 : 0'
+  - 'ITEM : EXPOSED_CUT_COPPER_SLAB : 16 : 0'
+  - 'ENTITY : CAVE_SPIDER : 4'
+  '8':
+  - 'ITEM : OAK_SHELF : 64 : 0'
+  - 'ITEM : STRIPPED_CHERRY_LOG : 32 : 0'
+  '9':
+  - 'ITEM : COMMAND_BLOCK : 64 : 0'
+  - 'ITEM : NETHERRACK : 32 : 0'
+  - 'ENTITY : STRAY : 1'
+  '10':
+  - 'ENTITY : WITHER_SKULL : 4'
+  - 'ITEM : IRON_LEGGINGS : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 2'
+  - 'ITEM : COARSE_DIRT : 16 : 0'
+  '11':
+  - 'ITEM : SPRUCE_LEAVES : 16 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '12':
+  - 'ITEM : BEEF : 32 : 0'
+  '13':
+  - 'ENTITY : PAINTING : 1'
+  - 'ITEM : EXPOSED_COPPER_BARS : 64 : 0'
+  '14':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : SMALL_AMETHYST_BUD : 8 : 0'
+  - 'ITEM : FIRE_CHARGE : 63 : 0'
+  - 'ITEM : AMETHYST_SHARD : 9 : 0'
+  '15':
+  - 'ENTITY : BREEZE_WIND_CHARGE : 2'
+  - 'SPECIAL : PIG : 4'
+  '16':
+  - 'ITEM : BROWN_CARPET : 8 : 0'
+  - 'ENTITY : COPPER_GOLEM : 3'
+  - 'ENTITY : OAK_BOAT : 2'
+  '17':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 3'
+  - 'ITEM : PURPLE_CARPET : 32 : 0'
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 1'
+  '18':
+  - 'ITEM : RAW_COPPER_BLOCK : 64 : 0'
+  '19':
+  - 'ENTITY : CHEST_MINECART : 4'
+  - 'ITEM : PINK_GLAZED_TERRACOTTA : 64 : 0'
+  '20':
+  - 'ENTITY : PARROT : 1'
+  '21':
+  - 'ENTITY : CREAKING : 3'
+  - 'ENTITY : BLOCK_DISPLAY : 3'
+  '22':
+  - 'ITEM : PRISMARINE_WALL : 64 : 0'
+  - 'ITEM : WOODEN_HOE : 1 : 0'
+  '23':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 2'
+  '24':
+  - 'ENTITY : LLAMA_SPIT : 2'
+  - 'ENTITY : TADPOLE : 4'
+  - 'ITEM : MOSS_BLOCK : 8 : 0'
+  '25':
+  - 'ENTITY : ENDERMAN : 2'
+  - 'ITEM : SPONGE : 16 : 0'
+  '26':
+  - 'ENTITY : WOLF : 4'
+  - 'ITEM : ORANGE_STAINED_GLASS_PANE : 8 : 0'
+  '27':
+  - 'ITEM : SOUL_SAND : 32 : 0'
+  - 'ITEM : WEATHERED_COPPER_BARS : 16 : 0'
+  '28':
+  - 'ENTITY : BIRCH_BOAT : 1'
+  '29':
+  - 'ITEM : WITHER_SPAWN_EGG : 59 : 0'
+  '30':
+  - 'ENTITY : SALMON : 1'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '31':
+  - 'ITEM : NAUTILUS_SHELL : 64 : 0'
+  '32':
+  - 'ITEM : OXIDIZED_COPPER_CHEST : 8 : 0'
+  - 'ITEM : LIGHT_BLUE_BED : 1 : 0'
+  '33':
+  - 'ITEM : ENDER_PEARL : 8 : 0'
+  - 'ITEM : WAXED_WEATHERED_COPPER : 8 : 0'
+  '34':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'LUCKY_BLOCK_ITEM : ICED : 4'
+  '35':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 2'
+  - 'ITEM : VEX_ARMOR_TRIM_SMITHING_TEMPLATE : 60 : 0'
+  '36':
+  - 'ITEM : RED_MUSHROOM : 8 : 0'
+  '37':
+  - 'ENTITY : SKELETON_HORSE : 3'
+  - 'ITEM : BLUE_SHULKER_BOX : 1 : 0'
+  '38':
+  - 'ITEM : GREEN_CARPET : 64 : 0'
+  - 'ITEM : CYAN_CONCRETE : 64 : 0'
+  - 'ENTITY : BLOCK_DISPLAY : 2'
+  '39':
+  - 'ITEM : WAXED_COPPER_CHEST : 32 : 0'
+  - 'ITEM : GRAY_GLAZED_TERRACOTTA : 16 : 0'
+  - 'ITEM : CREEPER_SPAWN_EGG : 25 : 0'
+  '40':
+  - 'ITEM : LIGHT_BLUE_CONCRETE_POWDER : 64 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : HOST_ARMOR_TRIM_SMITHING_TEMPLATE : 17 : 0'
+  '41':
+  - 'ITEM : SLIME_BALL : 34 : 0'
+  - 'ITEM : LILY_OF_THE_VALLEY : 32 : 0'
+  - 'ITEM : RED_DYE : 2 : 0'
+  '42':
+  - 'LUCKY_BLOCK_ITEM : LIME : 3'
+  - 'ITEM : CRIMSON_FENCE : 64 : 0'
+  - 'ITEM : TARGET : 32 : 0'
+  '43':
+  - 'ITEM : MILK_BUCKET : 1 : 0'
+  - 'ITEM : RED_CONCRETE_POWDER : 64 : 0'
+  - 'ENTITY : BAMBOO_CHEST_RAFT : 1'
+  '44':
+  - 'ENTITY : SPECTRAL_ARROW : 3'
+  - 'ITEM : MOSSY_STONE_BRICK_SLAB : 8 : 0'
+  - 'ENTITY : CAVE_SPIDER : 1'
+eco: true

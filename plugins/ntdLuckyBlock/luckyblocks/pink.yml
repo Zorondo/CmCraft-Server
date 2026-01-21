@@ -1,0 +1,79 @@
+texture: 11a367164bc6852c8f078811de7baacaefd6964960ebff1fa504c7b4b1298a52
+name: '&dPink LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : DEEPSLATE_BRICK_SLAB : 8 : 0'
+  - 'ITEM : GREEN_GLAZED_TERRACOTTA : 64 : 0'
+  - 'ITEM : PALE_OAK_WOOD : 8 : 0'
+  '1':
+  - 'ITEM : MOSSY_COBBLESTONE_WALL : 16 : 0'
+  '2':
+  - 'ITEM : CHERRY_SIGN : 16 : 0'
+  '3':
+  - 'ITEM : ANGLER_POTTERY_SHERD : 62 : 0'
+  - 'ITEM : DEEPSLATE_LAPIS_ORE : 16 : 0'
+  '4':
+  - 'ITEM : FIRE_CORAL_FAN : 64 : 0'
+  - 'ITEM : END_STONE_BRICK_SLAB : 8 : 0'
+  - 'ENTITY : OMINOUS_ITEM_SPAWNER : 1'
+  '5':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 4'
+  - 'ENTITY : BIRCH_BOAT : 1'
+  '6':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ENTITY : LIGHTNING_BOLT : 2'
+  '7':
+  - 'ITEM : SEA_PICKLE : 32 : 0'
+  - 'ITEM : WAXED_COPPER_CHEST : 32 : 0'
+  '8':
+  - 'ITEM : NETHERITE_BOOTS : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 4'
+  '9':
+  - 'ITEM : SUSPICIOUS_SAND : 8 : 0'
+  - 'ITEM : MILK_BUCKET : 1 : 0'
+  '10':
+  - 'ITEM : GRAY_WOOL : 16 : 0'
+  '11':
+  - 'ITEM : WAXED_COPPER_LANTERN : 8 : 0'
+  - 'ITEM : HEART_OF_THE_SEA : 2 : 0'
+  '12':
+  - 'ITEM : DARK_OAK_PLANKS : 8 : 0'
+  - 'ITEM : CHISELED_RESIN_BRICKS : 32 : 0'
+  - 'ENTITY : GUARDIAN : 4'
+  - 'ENTITY : DOLPHIN : 3'
+  '13':
+  - 'ITEM : ORANGE_BED : 1 : 0'
+  - 'ENTITY : END_CRYSTAL : 2'
+  '14':
+  - 'ENTITY : SPECTRAL_ARROW : 1'
+  - 'ITEM : NETHERITE_INGOT : 14 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '15':
+  - 'ITEM : ORANGE_CARPET : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+  - 'ENTITY : BAMBOO_RAFT : 4'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : LIME : 3'
+  - 'ENTITY : ENDER_PEARL : 1'
+  '17':
+  - 'ITEM : MOURNER_POTTERY_SHERD : 40 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 3'
+  '18':
+  - 'ITEM : SILVERFISH_SPAWN_EGG : 43 : 0'
+  - 'ENTITY : SPLASH_POTION : 3'
+  - 'ITEM : ACACIA_PRESSURE_PLATE : 64 : 0'
+  '19':
+  - 'ENTITY : LLAMA_SPIT : 2'
+  - 'ITEM : PISTON : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : RED : 4'
+  - 'ITEM : DEEPSLATE_REDSTONE_ORE : 8 : 0'
+eco: true

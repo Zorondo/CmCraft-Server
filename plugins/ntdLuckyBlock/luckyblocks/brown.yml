@@ -1,0 +1,179 @@
+texture: c133414759f9e5315156017023a8b1b31cfbf177dcafb0603b8e9d94036a23f1
+name: '&cBrown LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : GIANT : 2'
+  - 'ITEM : SPRUCE_FENCE : 32 : 0'
+  - 'ENTITY : PIGLIN_BRUTE : 2'
+  '1':
+  - 'ITEM : COPPER_CHESTPLATE : 1 : 0'
+  - 'ENTITY : DOLPHIN : 3'
+  '2':
+  - 'ITEM : COOKED_SALMON : 3 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '3':
+  - 'ITEM : TURTLE_HELMET : 1 : 0'
+  - 'ENTITY : SQUID : 2'
+  '4':
+  - 'ITEM : CHORUS_PLANT : 8 : 0'
+  - 'ITEM : RESIN_BRICKS : 32 : 0'
+  - 'ITEM : MANGROVE_LOG : 64 : 0'
+  '5':
+  - 'ITEM : STRIPPED_JUNGLE_LOG : 32 : 0'
+  - 'ITEM : HONEYCOMB_BLOCK : 32 : 0'
+  - 'ITEM : CHERRY_TRAPDOOR : 32 : 0'
+  '6':
+  - 'ENTITY : STRIDER : 1'
+  - 'ITEM : DEEPSLATE_EMERALD_ORE : 32 : 0'
+  - 'ITEM : WIND_CHARGE : 22 : 0'
+  '7':
+  - 'ITEM : JUNGLE_BUTTON : 64 : 0'
+  '8':
+  - 'ITEM : DIRT_PATH : 32 : 0'
+  - 'ITEM : STRAY_SPAWN_EGG : 1 : 0'
+  - 'ENTITY : ZOMBIE_HORSE : 3'
+  '9':
+  - 'ITEM : DEEPSLATE_IRON_ORE : 64 : 0'
+  - 'ITEM : MUD_BRICKS : 8 : 0'
+  - 'ITEM : DIAMOND_HORSE_ARMOR : 1 : 0'
+  - 'ENTITY : ARMADILLO : 4'
+  '10':
+  - 'ENTITY : INTERACTION : 3'
+  - 'ENTITY : VEX : 3'
+  - 'ITEM : TRAPPED_CHEST : 32 : 0'
+  '11':
+  - 'ITEM : POLISHED_BLACKSTONE_BRICKS : 64 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '12':
+  - 'ITEM : DARK_OAK_PRESSURE_PLATE : 32 : 0'
+  - 'ITEM : STONE_BUTTON : 64 : 0'
+  '13':
+  - 'ITEM : RED_TULIP : 64 : 0'
+  - 'ITEM : CUT_RED_SANDSTONE : 64 : 0'
+  '14':
+  - 'ITEM : SUGAR : 36 : 0'
+  '15':
+  - 'ITEM : GRINDSTONE : 32 : 0'
+  - 'ITEM : DEAD_FIRE_CORAL_FAN : 16 : 0'
+  '16':
+  - 'ENTITY : BLAZE : 3'
+  - 'ENTITY : ZOGLIN : 2'
+  '17':
+  - 'ITEM : REDSTONE : 37 : 0'
+  - 'ITEM : LIGHT_GRAY_BUNDLE : 1 : 0'
+  '18':
+  - 'ITEM : END_STONE_BRICKS : 16 : 0'
+  - 'ITEM : DEEPSLATE_TILE_SLAB : 32 : 0'
+  - 'ENTITY : SHULKER_BULLET : 1'
+  '19':
+  - 'ITEM : BLACK_CANDLE : 16 : 0'
+  - 'ENTITY : TEXT_DISPLAY : 1'
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 3'
+  '20':
+  - 'ENTITY : LIGHTNING_BOLT : 1'
+  - 'LUCKY_BLOCK_ITEM : GRAY : 1'
+  '21':
+  - 'ITEM : GOLDEN_SWORD : 1 : 0'
+  '22':
+  - 'ENTITY : OAK_BOAT : 1'
+  - 'ITEM : LIGHT_GRAY_CARPET : 64 : 0'
+  - 'ITEM : LIGHT_BLUE_BED : 1 : 0'
+  '23':
+  - 'ITEM : HORN_CORAL_FAN : 32 : 0'
+  '24':
+  - 'ITEM : STRIPPED_CRIMSON_HYPHAE : 64 : 0'
+  - 'ENTITY : ALLAY : 3'
+  - 'ITEM : QUARTZ_PILLAR : 8 : 0'
+  '25':
+  - 'ENTITY : GHAST : 3'
+  - 'ITEM : MILK_BUCKET : 1 : 0'
+  - 'ITEM : PRISMARINE_WALL : 32 : 0'
+  '26':
+  - 'ENTITY : VEX : 3'
+  - 'ITEM : BLUE_EGG : 4 : 0'
+  - 'ITEM : STRIPPED_OAK_LOG : 16 : 0'
+  '27':
+  - 'ITEM : GOLDEN_LEGGINGS : 1 : 0'
+  '28':
+  - 'ITEM : AXOLOTL_BUCKET : 1 : 0'
+  - 'ITEM : NETHER_BRICKS : 16 : 0'
+  - 'ITEM : RESPAWN_ANCHOR : 8 : 0'
+  '29':
+  - 'ITEM : GOLD_INGOT : 61 : 0'
+  '30':
+  - 'ENTITY : WANDERING_TRADER : 3'
+  - 'ITEM : RED_TULIP : 8 : 0'
+  '31':
+  - 'ENTITY : OAK_BOAT : 1'
+  - 'LUCKY_BLOCK_ITEM : GRAY : 4'
+  '32':
+  - 'ITEM : WHEAT : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 4'
+  '33':
+  - 'ITEM : POLAR_BEAR_SPAWN_EGG : 23 : 0'
+  - 'ITEM : BIRCH_CHEST_BOAT : 1 : 0'
+  - 'ENTITY : BIRCH_BOAT : 2'
+  '34':
+  - 'ITEM : GRAY_GLAZED_TERRACOTTA : 16 : 0'
+  - 'ITEM : JUNGLE_SLAB : 64 : 0'
+  - 'ITEM : DIAMOND_AXE : 1 : 0'
+  - 'ITEM : JUNGLE_WOOD : 64 : 0'
+  '35':
+  - 'ENTITY : BAMBOO_RAFT : 4'
+  - 'ENTITY : SKELETON_HORSE : 4'
+  - 'ITEM : EXPLORER_POTTERY_SHERD : 45 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '36':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : OAK_BOAT : 1 : 0'
+  '37':
+  - 'ITEM : CYAN_CONCRETE : 8 : 0'
+  - 'ITEM : STRING : 40 : 0'
+  - 'ITEM : DRAGON_EGG : 64 : 0'
+  - 'ITEM : FURNACE_MINECART : 1 : 0'
+  '38':
+  - 'LUCKY_BLOCK_ITEM : LIME : 4'
+  '39':
+  - 'ITEM : CHERRY_TRAPDOOR : 64 : 0'
+  - 'ITEM : WARD_ARMOR_TRIM_SMITHING_TEMPLATE : 42 : 0'
+  - 'ITEM : PRIZE_POTTERY_SHERD : 23 : 0'
+  - 'ITEM : BORDURE_INDENTED_BANNER_PATTERN : 1 : 0'
+  '40':
+  - 'ENTITY : EYE_OF_ENDER : 2'
+  '41':
+  - 'SPECIAL : PIG : 15'
+  - 'ITEM : SHIELD : 1 : 0'
+  - 'ENTITY : SPIDER : 4'
+  '42':
+  - 'ENTITY : SKELETON : 1'
+  - 'ENTITY : TRIDENT : 2'
+  - 'ITEM : LIGHT_WEIGHTED_PRESSURE_PLATE : 8 : 0'
+  - 'ITEM : ANGLER_POTTERY_SHERD : 3 : 0'
+  '43':
+  - 'ITEM : JUNGLE_SAPLING : 16 : 0'
+  '44':
+  - 'ITEM : PARROT_SPAWN_EGG : 61 : 0'
+  '45':
+  - 'ENTITY : WITHER_SKELETON : 4'
+  '46':
+  - 'ITEM : WRITTEN_BOOK : 3 : 0'
+  - 'ENTITY : SKELETON_HORSE : 4'
+  '47':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 1'
+  - 'ENTITY : COMMAND_BLOCK_MINECART : 1'
+  - 'ITEM : SPLASH_POTION : 1 : 0'
+  '48':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : BOOKSHELF : 32 : 0'
+  - 'ENTITY : PUFFERFISH : 3'
+eco: true

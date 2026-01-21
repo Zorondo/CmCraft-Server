@@ -1,0 +1,144 @@
+name: forest
+pauseCountdown: 60
+gameTime: 3600
+world: forest
+pos1: 36.91706951139179;154.61217942251005;127.72721530090658;163.59009;31.026525
+pos2: -53.66817628502532;59.08944621548677;-124.08515548504865;-20.017822;-13.37347
+lobbyPos1: -10.515708239208259;181.27495372871167;-9.665040009096531;-36.45215;28.350307
+lobbyPos2: 10.801976705843295;174.90562122009493;11.7332064782717;144.29883;5.400308
+specSpawn: 0.34764110380743113;149.0837810875403;1.0939538261159658;2.3449707;30.726555
+lobbySpawn: 0.7637090198693868;178.0;1.4426746971834477;-95.72244;59.400105
+lobbySpawnWorld: forest
+minPlayers: 2
+postGameWaiting: 3
+teams:
+  RED:
+    isNewColor: false
+    color: RED
+    maxPlayers: 8
+    bed: 0.0;116.0;90.0;0.0;0.0
+    spawn: 8.464640815865838;120.0;80.32768551339568;176.07275;90.0
+    actualName: RED
+  BLUE:
+    isNewColor: false
+    color: BLUE
+    maxPlayers: 8
+    bed: 2.0;116.0;-88.0;0.0;0.0
+    spawn: -5.530446499162348;120.0;-77.25582040581885;-2.2612305;90.0
+    actualName: BLUE
+spawners:
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -1.6070850038036248;121.0;79.34626365615199;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: bronze
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -1.5083688364529466;121.0;79.76158361894447;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: bronze
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 1.750123959386123;118.0;44.54372851138897;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: iron
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -2.699999988079071;117.0;-1.699999988079071;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -2.699999988079071;117.0;4.699999988079071;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 3.699999988079071;117.0;4.454053306371946;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 3.699999988079071;117.0;-1.699999988079071;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 1.4486027862920903;118.0;-41.43930880283939;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: iron
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: 4.458202965360177;121.0;-76.54478613988019;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: bronze
+stores:
+- isBaby: 'false'
+  loc: -12.699999988079071;120.0;-79.49985408157349;-84.01236;26.39998
+  parent: 'false'
+  shop: null
+  name: Магазин
+  skin: null
+  team: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: 15.276456514556934;120.0;82.46456247807633;97.174805;33.74999
+  parent: 'false'
+  shop: null
+  name: Магазин
+  skin: null
+  team: null
+  type: VILLAGER
+constant:
+  compass-enabled: inherit
+  add-wool-to-inventory-on-join: inherit
+  in-lobby-colored-leather-by-team: inherit
+  allow-crafting: inherit
+  join-randomly-after-lobby-timeout: inherit
+  join-randomly-on-lobby-join: inherit
+  keep-inventory-on-death: inherit
+  prevent-killing-villagers: inherit
+  player-drops: inherit
+  friendlyfire: inherit
+  lobbybossbar: inherit
+  bossbar: inherit
+  lobbyscoreboard: inherit
+  scoreboard: inherit
+  prevent-spawning-mobs: inherit
+  spawner-holograms: inherit
+  spawner-disable-merge: inherit
+  game-start-items: inherit
+  player-respawn-items: inherit
+  spawner-holograms-countdown: inherit
+  damage-when-player-is-not-in-arena: inherit
+  remove-unused-target-blocks: inherit
+  allow-block-falling: inherit
+  holo-above-bed: inherit
+  allow-spectator-join: inherit
+  anchor-auto-fill: inherit
+  anchor-decreasing: inherit
+  cake-target-block-eating: inherit
+  target-block-explosions: inherit
+  invisible-lobby-on-game-start: inherit
+arenaTime: DAY
+arenaWeather: CLEAR
+lobbyBossBarColor: default
+gameBossBarColor: default

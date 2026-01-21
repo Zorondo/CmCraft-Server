@@ -1,0 +1,84 @@
+inventory:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4556
+  id: minecraft:oak_log
+  count: 9
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4556
+  id: minecraft:iron_axe
+  count: 1
+  schema_version: 1
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+armor:
+- null
+- null
+- null
+- null
+requirePermission: false
+icon:
+  ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4556
+  id: minecraft:snow_block
+  count: 1
+  schema_version: 1
+lockedIcon:
+  ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4556
+  id: minecraft:barrier
+  count: 1
+  schema_version: 1
+position: 2
+page: 1
+name: Дровосек
+enabled: true
+lores:
+  unlocked:
+  - Lore line 1
+  locked: '&cA permission is required to unlock this kit!'
+gameSettings:
+  noRegen: false
+  noPvp: false
+  soupPvp: false
+  noFallDamage: false
+filename: Дровосек

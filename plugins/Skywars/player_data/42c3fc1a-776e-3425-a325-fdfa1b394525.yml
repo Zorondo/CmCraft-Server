@@ -1,0 +1,13 @@
+wins: 10
+losses: 0
+kills: 5
+deaths: 19
+pareffect: portal
+proeffect: redstone
+glasscolor: lightblue
+winsound: none
+killsound: dragongrowl
+taunt: none
+uuid: 42c3fc1a-776e-3425-a325-fdfa1b394525
+player_name: WiFi1
+xp: 666

@@ -1,0 +1,152 @@
+texture: 65fed46b39c6c34d491143b72ce728797d16f9b5aa40bbdec61667f5ff9d3d45
+name: '&bLight blue LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : STRIPPED_MANGROVE_WOOD : 64 : 0'
+  - 'ENTITY : SHULKER : 2'
+  '1':
+  - 'ENTITY : STRAY : 1'
+  '2':
+  - 'ENTITY : DOLPHIN : 4'
+  '3':
+  - 'SPECIAL : PIG : 16'
+  - 'ITEM : CAT_SPAWN_EGG : 51 : 0'
+  '4':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : CHISELED_TUFF_BRICKS : 16 : 0'
+  - 'ENTITY : VILLAGER : 3'
+  '5':
+  - 'ENTITY : CHEST_MINECART : 3'
+  - 'ENTITY : SMALL_FIREBALL : 4'
+  - 'ITEM : MAGENTA_TERRACOTTA : 8 : 0'
+  '6':
+  - 'LUCKY_BLOCK_ITEM : RED : 3'
+  '7':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : WHITE_BANNER : 16 : 0'
+  - 'ENTITY : EVOKER_FANGS : 4'
+  '8':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : CHERRY_BOAT : 1 : 0'
+  - 'ENTITY : MOOSHROOM : 3'
+  - 'ENTITY : TRADER_LLAMA : 1'
+  '9':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 2'
+  - 'ITEM : WARPED_HYPHAE : 32 : 0'
+  '10':
+  - 'ITEM : LARGE_FERN : 64 : 0'
+  - 'ITEM : GHAST_TEAR : 24 : 0'
+  - 'ITEM : WAXED_OXIDIZED_COPPER_LANTERN : 64 : 0'
+  '11':
+  - 'ITEM : GRAY_CANDLE : 16 : 0'
+  - 'ITEM : CRIMSON_HYPHAE : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 1'
+  '12':
+  - 'ITEM : WAXED_WEATHERED_COPPER_GRATE : 16 : 0'
+  - 'ENTITY : CREAKING : 3'
+  - 'ITEM : GHAST_TEAR : 3 : 0'
+  - 'ENTITY : JUNGLE_BOAT : 2'
+  '13':
+  - 'ITEM : ORANGE_CANDLE : 64 : 0'
+  '14':
+  - 'ITEM : BIRCH_FENCE : 32 : 0'
+  '15':
+  - 'ENTITY : SLIME : 2'
+  - 'ITEM : BLUE_ORCHID : 16 : 0'
+  - 'ENTITY : HOGLIN : 2'
+  - 'ENTITY : MOOSHROOM : 2'
+  '16':
+  - 'ENTITY : ELDER_GUARDIAN : 2'
+  - 'ITEM : MUSIC_DISC_OTHERSIDE : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 1'
+  '17':
+  - 'ITEM : DARK_OAK_FENCE : 8 : 0'
+  - 'ENTITY : AREA_EFFECT_CLOUD : 1'
+  '18':
+  - 'ITEM : COD_BUCKET : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 1'
+  - 'ITEM : BROWN_CONCRETE_POWDER : 64 : 0'
+  '19':
+  - 'ITEM : SCULK_SENSOR : 8 : 0'
+  - 'ENTITY : BAMBOO_CHEST_RAFT : 2'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '20':
+  - 'ITEM : OXIDIZED_CHISELED_COPPER : 16 : 0'
+  - 'ITEM : PIGLIN_SPAWN_EGG : 47 : 0'
+  '21':
+  - 'ENTITY : PALE_OAK_BOAT : 3'
+  - 'ITEM : LIGHT_GRAY_GLAZED_TERRACOTTA : 64 : 0'
+  '22':
+  - 'ENTITY : BREEZE : 1'
+  '23':
+  - 'ENTITY : SALMON : 4'
+  - 'ITEM : PIGLIN_BANNER_PATTERN : 1 : 0'
+  - 'ITEM : DIAMOND_AXE : 1 : 0'
+  '24':
+  - 'ENTITY : TNT_MINECART : 3'
+  - 'ITEM : GREEN_BANNER : 16 : 0'
+  - 'ENTITY : FOX : 3'
+  - 'ENTITY : MANGROVE_CHEST_BOAT : 3'
+  '25':
+  - 'ENTITY : WITHER_SKELETON : 1'
+  - 'ITEM : SPRUCE_DOOR : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : WHITE : 4'
+  '26':
+  - 'ITEM : MUSHROOM_STEW : 1 : 0'
+  - 'ENTITY : EVOKER : 1'
+  '27':
+  - 'ENTITY : COMMAND_BLOCK_MINECART : 4'
+  - 'ITEM : RESIN_BRICKS : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  - 'ENTITY : END_CRYSTAL : 2'
+  '28':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+  '29':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'ITEM : WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE : 20 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '30':
+  - 'ENTITY : PALE_OAK_CHEST_BOAT : 2'
+  - 'ENTITY : ENDERMAN : 1'
+  '31':
+  - 'ENTITY : OAK_BOAT : 2'
+  - 'ITEM : GREEN_BANNER : 16 : 0'
+  - 'ENTITY : PUFFERFISH : 2'
+  '32':
+  - 'ENTITY : EYE_OF_ENDER : 4'
+  - 'ENTITY : DRAGON_FIREBALL : 1'
+  - 'ITEM : DRIPSTONE_BLOCK : 64 : 0'
+  '33':
+  - 'ITEM : SCULK_SENSOR : 64 : 0'
+  - 'ITEM : GLASS : 64 : 0'
+  - 'ITEM : SNIFFER_SPAWN_EGG : 8 : 0'
+  - 'ENTITY : DROWNED : 1'
+  '34':
+  - 'ITEM : DARK_OAK_PRESSURE_PLATE : 64 : 0'
+  - 'ENTITY : MARKER : 3'
+  '35':
+  - 'ITEM : FLOW_BANNER_PATTERN : 1 : 0'
+  '36':
+  - 'ITEM : MUSIC_DISC_FAR : 1 : 0'
+  - 'ITEM : PINK_PETALS : 16 : 0'
+  '37':
+  - 'ITEM : COARSE_DIRT : 32 : 0'
+  - 'ITEM : MAGENTA_HARNESS : 1 : 0'
+  '38':
+  - 'ITEM : SMALL_DRIPLEAF : 8 : 0'
+  - 'ENTITY : ILLUSIONER : 3'
+  - 'ITEM : PURPLE_WOOL : 64 : 0'
+  '39':
+  - 'ENTITY : PILLAGER : 1'
+  - 'ENTITY : VILLAGER : 2'
+  - 'ITEM : EMERALD_BLOCK : 8 : 0'
+eco: true

@@ -1,0 +1,141 @@
+texture: 300c817432585fadcbd9ca8cfedfeedbce5851b7c07d1b073fb52fa8283e8f23
+name: '&3Cyan LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : PRISMARINE_BRICK_SLAB : 8 : 0'
+  - 'ITEM : LEATHER_CHESTPLATE : 1 : 0'
+  - 'ITEM : SNOWBALL : 15 : 0'
+  '1':
+  - 'ITEM : BUBBLE_CORAL : 8 : 0'
+  '2':
+  - 'ENTITY : WIND_CHARGE : 3'
+  - 'ITEM : ACACIA_LOG : 64 : 0'
+  '3':
+  - 'ITEM : SOUL_CAMPFIRE : 8 : 0'
+  '4':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'SPECIAL : LIGHTNING : 3'
+  '5':
+  - 'ITEM : OAK_WOOD : 32 : 0'
+  - 'ITEM : BAMBOO_DOOR : 64 : 0'
+  '6':
+  - 'ITEM : SCULK_CATALYST : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 4'
+  '7':
+  - 'SPECIAL : LIGHTNING : 3'
+  '8':
+  - 'ENTITY : DARK_OAK_BOAT : 1'
+  '9':
+  - 'ENTITY : BLOCK_DISPLAY : 4'
+  - 'SPECIAL : PIG : 4'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 3'
+  '10':
+  - 'ENTITY : DROWNED : 2'
+  - 'ITEM : STONE_HOE : 1 : 0'
+  - 'ITEM : CRIMSON_PRESSURE_PLATE : 8 : 0'
+  '11':
+  - 'ENTITY : PHANTOM : 3'
+  - 'ENTITY : SPRUCE_BOAT : 3'
+  '12':
+  - 'ITEM : JUNGLE_BOAT : 1 : 0'
+  '13':
+  - 'SPECIAL : PIG : 8'
+  - 'ITEM : STRIPPED_PALE_OAK_LOG : 8 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '14':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 4'
+  - 'ENTITY : TNT : 3'
+  '15':
+  - 'ITEM : ENDER_EYE : 11 : 0'
+  - 'ENTITY : FIREWORK_ROCKET : 3'
+  - 'ENTITY : ILLUSIONER : 2'
+  '16':
+  - 'ITEM : CLOSED_EYEBLOSSOM : 16 : 0'
+  '17':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : GUARDIAN : 4'
+  - 'LUCKY_BLOCK_ITEM : GRAY : 2'
+  '18':
+  - 'ITEM : OAK_FENCE : 64 : 0'
+  - 'ENTITY : STRIDER : 4'
+  '19':
+  - 'ITEM : BREAD : 56 : 0'
+  '20':
+  - 'ITEM : FLOWER_POT : 16 : 0'
+  - 'ITEM : TUFF : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 4'
+  '21':
+  - 'ENTITY : POLAR_BEAR : 2'
+  - 'ITEM : WEATHERED_COPPER_CHAIN : 8 : 0'
+  - 'SPECIAL : PIG : 4'
+  - 'ENTITY : SQUID : 4'
+  '22':
+  - 'ENTITY : VEX : 4'
+  '23':
+  - 'LUCKY_BLOCK_ITEM : WHITE : 4'
+  - 'ENTITY : BEE : 1'
+  '24':
+  - 'ENTITY : SKELETON : 1'
+  - 'ITEM : OAK_BUTTON : 8 : 0'
+  '25':
+  - 'ENTITY : CREEPER : 4'
+  - 'ITEM : END_STONE : 8 : 0'
+  '26':
+  - 'ENTITY : GLOW_ITEM_FRAME : 1'
+  '27':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 1'
+  - 'SPECIAL : LIGHTNING : 3'
+  '28':
+  - 'ITEM : ENCHANTED_GOLDEN_APPLE : 41 : 0'
+  - 'ENTITY : TRADER_LLAMA : 3'
+  '29':
+  - 'ITEM : STRUCTURE_BLOCK : 32 : 0'
+  - 'ENTITY : FIREWORK_ROCKET : 1'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 1'
+  '30':
+  - 'ITEM : WAXED_EXPOSED_COPPER_DOOR : 8 : 0'
+  - 'ITEM : WAXED_OXIDIZED_COPPER : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 4'
+  '31':
+  - 'ITEM : WOODEN_HOE : 1 : 0'
+  '32':
+  - 'ITEM : FIREWORK_STAR : 48 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : STONE_SWORD : 1 : 0'
+  '33':
+  - 'ITEM : ITEM_FRAME : 8 : 0'
+  - 'ENTITY : FALLING_BLOCK : 1'
+  - 'ENTITY : FALLING_BLOCK : 1'
+  - 'ENTITY : MINECART : 2'
+  '34':
+  - 'ITEM : EXPOSED_COPPER_CHAIN : 16 : 0'
+  - 'ENTITY : CHERRY_CHEST_BOAT : 1'
+  - 'ENTITY : SPECTRAL_ARROW : 2'
+  '35':
+  - 'ITEM : GOLDEN_LEGGINGS : 1 : 0'
+  - 'ITEM : DARK_OAK_TRAPDOOR : 64 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '36':
+  - 'ITEM : PRISMARINE_SLAB : 16 : 0'
+  - 'ENTITY : PIGLIN_BRUTE : 1'
+  '37':
+  - 'ENTITY : COMMAND_BLOCK_MINECART : 1'
+  - 'ITEM : FEATHER : 60 : 0'
+  '38':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 3'
+  - 'ENTITY : SMALL_FIREBALL : 3'
+  - 'ENTITY : OCELOT : 1'
+  '39':
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 4'
+  - 'ENTITY : MULE : 3'
+  - 'ITEM : NETHERITE_HOE : 1 : 0'
+eco: true

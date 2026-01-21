@@ -1,0 +1,18 @@
+location: world:-120,557:110,000:206,664
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: Основные функции
+    height: 0.3
+  - content: '--------------------'
+    height: 0.3
+  - content: Что зайти в игру нажать на меч
+    height: 0.3
+  - content: В око эндера можно выберать кастомизацию
+    height: 0.3
+  actions: {}

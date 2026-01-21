@@ -1,0 +1,166 @@
+texture: b03f5a9bc719cd1127be0954c73cd5714ecd478dad880ef2b9979c481097e6be
+name: '&aLime LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : PIG : 4'
+  - 'ITEM : WARPED_BUTTON : 32 : 0'
+  '1':
+  - 'ENTITY : WITCH : 2'
+  - 'ENTITY : ENDERMAN : 3'
+  - 'ENTITY : JUNGLE_BOAT : 4'
+  '2':
+  - 'ENTITY : COPPER_GOLEM : 4'
+  - 'ITEM : REDSTONE_BLOCK : 8 : 0'
+  - 'ITEM : ORANGE_STAINED_GLASS : 16 : 0'
+  '3':
+  - 'ITEM : DONKEY_SPAWN_EGG : 55 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'SPECIAL : PIG : 17'
+  '4':
+  - 'ITEM : CHERRY_SAPLING : 32 : 0'
+  '5':
+  - 'ITEM : MANGROVE_LOG : 64 : 0'
+  '6':
+  - 'LUCKY_BLOCK_ITEM : LIME : 4'
+  - 'ENTITY : TADPOLE : 4'
+  - 'ITEM : LIGHT : 64 : 0'
+  '7':
+  - 'ITEM : MAGENTA_BED : 1 : 0'
+  - 'ENTITY : WITHER_SKULL : 1'
+  '8':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  '9':
+  - 'ITEM : WAXED_OXIDIZED_COPPER_CHEST : 64 : 0'
+  '10':
+  - 'ENTITY : SPRUCE_BOAT : 3'
+  - 'ENTITY : WITHER_SKULL : 1'
+  - 'ENTITY : BOGGED : 2'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '11':
+  - 'ITEM : RED_MUSHROOM : 16 : 0'
+  - 'ITEM : PRISMARINE_BRICK_SLAB : 32 : 0'
+  - 'ITEM : SPECTRAL_ARROW : 46 : 0'
+  '12':
+  - 'ITEM : WEATHERED_LIGHTNING_ROD : 16 : 0'
+  - 'ITEM : CHERRY_HANGING_SIGN : 16 : 0'
+  '13':
+  - 'ENTITY : JUNGLE_BOAT : 4'
+  - 'SPECIAL : PIG : 4'
+  '14':
+  - 'ITEM : ENCHANTING_TABLE : 16 : 0'
+  - 'ENTITY : CHERRY_BOAT : 2'
+  '15':
+  - 'ENTITY : AREA_EFFECT_CLOUD : 2'
+  '16':
+  - 'ITEM : WAXED_EXPOSED_COPPER_CHAIN : 32 : 0'
+  - 'ENTITY : PAINTING : 4'
+  '17':
+  - 'ITEM : POLISHED_BLACKSTONE_WALL : 64 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : RED_CANDLE : 8 : 0'
+  - 'ENTITY : SPECTRAL_ARROW : 3'
+  '18':
+  - 'ENTITY : PIG : 2'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 4'
+  - 'ITEM : PEARLESCENT_FROGLIGHT : 16 : 0'
+  '19':
+  - 'LUCKY_BLOCK_ITEM : PINK : 3'
+  - 'ENTITY : ENDER_PEARL : 3'
+  '20':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 3'
+  - 'ITEM : EXPLORER_POTTERY_SHERD : 51 : 0'
+  '21':
+  - 'SPECIAL : PIG : 4'
+  - 'ITEM : HORN_CORAL_FAN : 16 : 0'
+  - 'ENTITY : BREEZE : 1'
+  - 'ENTITY : BAMBOO_CHEST_RAFT : 3'
+  '22':
+  - 'ITEM : POLISHED_DEEPSLATE_WALL : 32 : 0'
+  - 'ITEM : SHORT_DRY_GRASS : 64 : 0'
+  '23':
+  - 'ITEM : IRON_CHESTPLATE : 1 : 0'
+  - 'ITEM : PRISMARINE_BRICKS : 8 : 0'
+  '24':
+  - 'ITEM : WAXED_OXIDIZED_LIGHTNING_ROD : 32 : 0'
+  '25':
+  - 'ITEM : STONECUTTER : 16 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '26':
+  - 'ITEM : LIME_CONCRETE_POWDER : 64 : 0'
+  - 'ENTITY : HUSK : 2'
+  - 'ITEM : SHIELD : 1 : 0'
+  '27':
+  - 'ITEM : BRUSH : 1 : 0'
+  '28':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 1'
+  - 'ITEM : SCULK_CATALYST : 8 : 0'
+  - 'ITEM : JUNGLE_FENCE_GATE : 16 : 0'
+  '29':
+  - 'ITEM : WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE : 60 : 0'
+  '30':
+  - 'ITEM : BLUE_BANNER : 8 : 0'
+  '31':
+  - 'ENTITY : CAVE_SPIDER : 4'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '32':
+  - 'ITEM : CUT_RED_SANDSTONE : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'ITEM : WARPED_NYLIUM : 8 : 0'
+  '33':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  - 'ENTITY : PIGLIN : 4'
+  - 'ITEM : SLIME_BLOCK : 32 : 0'
+  '34':
+  - 'ITEM : ACACIA_BOAT : 1 : 0'
+  - 'ENTITY : FALLING_BLOCK : 2'
+  '35':
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 3'
+  - 'ITEM : PARROT_SPAWN_EGG : 57 : 0'
+  - 'ITEM : JUNGLE_PRESSURE_PLATE : 32 : 0'
+  '36':
+  - 'ENTITY : JUNGLE_BOAT : 1'
+  - 'ITEM : POWERED_RAIL : 16 : 0'
+  - 'ENTITY : HUSK : 3'
+  '37':
+  - 'ITEM : RED_SANDSTONE_WALL : 64 : 0'
+  '38':
+  - 'ITEM : HORN_CORAL_FAN : 16 : 0'
+  - 'ENTITY : LLAMA : 2'
+  - 'ENTITY : CREEPER : 2'
+  - 'ITEM : HONEY_BOTTLE : 3 : 0'
+  '39':
+  - 'ITEM : HEAVY_CORE : 8 : 0'
+  - 'ITEM : COAL_ORE : 32 : 0'
+  - 'ITEM : BLUE_STAINED_GLASS_PANE : 64 : 0'
+  '40':
+  - 'ITEM : TUBE_CORAL_BLOCK : 64 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '41':
+  - 'ENTITY : CAVE_SPIDER : 2'
+  - 'ENTITY : OMINOUS_ITEM_SPAWNER : 4'
+  - 'ITEM : POLISHED_GRANITE_SLAB : 16 : 0'
+  '42':
+  - 'ITEM : STONE_SHOVEL : 1 : 0'
+  - 'ITEM : BUCKET : 1 : 0'
+  '43':
+  - 'SPECIAL : PIG : 8'
+  - 'ITEM : STRIDER_SPAWN_EGG : 47 : 0'
+  - 'ENTITY : SNOW_GOLEM : 2'
+  - 'ITEM : WHITE_CARPET : 32 : 0'
+  '44':
+  - 'ITEM : MUSIC_DISC_FAR : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 2'
+  '45':
+  - 'ITEM : VINDICATOR_SPAWN_EGG : 4 : 0'
+eco: true

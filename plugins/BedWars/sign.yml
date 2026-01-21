@@ -1,0 +1,19 @@
+sign:
+- name: forest
+  location:
+    ==: org.bukkit.Location
+    world: world
+    x: -120.0
+    y: 108.0
+    z: 211.0
+    pitch: 0.0
+    yaw: 0.0
+- name: skywar
+  location:
+    ==: org.bukkit.Location
+    world: world
+    x: -120.0
+    y: 108.0
+    z: 210.0
+    pitch: 0.0
+    yaw: 0.0

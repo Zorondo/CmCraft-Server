@@ -1,0 +1,110 @@
+texture: 1f23685c697ba55edda425ecf1fec72feeb7bb985c6506b2cef070515e4e5492
+name: '&dMagenta LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : PIG : 12'
+  '1':
+  - 'ITEM : PURPLE_BED : 1 : 0'
+  - 'ITEM : WAXED_OXIDIZED_COPPER_CHEST : 16 : 0'
+  '2':
+  - 'ENTITY : PUFFERFISH : 2'
+  - 'ITEM : FERMENTED_SPIDER_EYE : 43 : 0'
+  - 'ENTITY : WITHER : 1'
+  '3':
+  - 'ITEM : DIORITE_SLAB : 8 : 0'
+  - 'ITEM : GOLD_INGOT : 41 : 0'
+  - 'ENTITY : WIND_CHARGE : 3'
+  - 'ITEM : DARK_OAK_PRESSURE_PLATE : 32 : 0'
+  '4':
+  - 'ITEM : LIGHT_GRAY_CONCRETE : 64 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '5':
+  - 'SPECIAL : PIG : 22'
+  - 'ENTITY : BLOCK_DISPLAY : 4'
+  '6':
+  - 'ENTITY : FIREBALL : 1'
+  '7':
+  - 'ENTITY : PARROT : 1'
+  '8':
+  - 'ITEM : CACTUS_FLOWER : 32 : 0'
+  - 'SPECIAL : PIG : 15'
+  - 'ITEM : BUBBLE_CORAL_FAN : 32 : 0'
+  '9':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 3'
+  - 'ENTITY : SLIME : 2'
+  '10':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 2'
+  '11':
+  - 'ENTITY : EVOKER : 4'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'ITEM : BRUSH : 1 : 0'
+  '12':
+  - 'ITEM : PURPLE_CANDLE : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 3'
+  - 'ENTITY : ZOMBIE : 1'
+  '13':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'SPECIAL : PIG : 4'
+  '14':
+  - 'ITEM : DEEPSLATE_TILES : 64 : 0'
+  '15':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 1'
+  - 'ENTITY : IRON_GOLEM : 1'
+  '16':
+  - 'ITEM : HEAVY_CORE : 64 : 0'
+  - 'ITEM : AXOLOTL_SPAWN_EGG : 62 : 0'
+  - 'ENTITY : EYE_OF_ENDER : 1'
+  '17':
+  - 'ITEM : BONE_BLOCK : 16 : 0'
+  - 'ENTITY : ALLAY : 1'
+  - 'ITEM : YELLOW_CONCRETE : 8 : 0'
+  '18':
+  - 'ITEM : DEAD_TUBE_CORAL : 64 : 0'
+  - 'ENTITY : PIG : 4'
+  '19':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : CALIBRATED_SCULK_SENSOR : 32 : 0'
+  '20':
+  - 'ITEM : RESPAWN_ANCHOR : 64 : 0'
+  '21':
+  - 'ITEM : TUFF_WALL : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLACK : 3'
+  '22':
+  - 'ITEM : DIRT_PATH : 8 : 0'
+  - 'ENTITY : ZOGLIN : 2'
+  - 'ITEM : BUBBLE_CORAL : 8 : 0'
+  '23':
+  - 'ITEM : ACACIA_DOOR : 16 : 0'
+  '24':
+  - 'ENTITY : DOLPHIN : 2'
+  - 'ITEM : JUNGLE_FENCE_GATE : 16 : 0'
+  - 'ITEM : INFESTED_CHISELED_STONE_BRICKS : 8 : 0'
+  '25':
+  - 'ITEM : EXPLORER_POTTERY_SHERD : 19 : 0'
+  - 'ITEM : ZOMBIE_VILLAGER_SPAWN_EGG : 48 : 0'
+  - 'ENTITY : PIGLIN : 1'
+  - 'ITEM : POTION : 1 : 0'
+  '26':
+  - 'ENTITY : FOX : 1'
+  - 'ITEM : RESPAWN_ANCHOR : 32 : 0'
+  - 'ITEM : SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE : 47 : 0'
+  - 'SPECIAL : PIG : 11'
+  '27':
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 4'
+  - 'ITEM : OBSERVER : 8 : 0'
+  '28':
+  - 'ITEM : SCULK_CATALYST : 16 : 0'
+  - 'ITEM : OXIDIZED_CUT_COPPER_SLAB : 32 : 0'
+  - 'ITEM : PALE_OAK_PRESSURE_PLATE : 32 : 0'
+eco: true

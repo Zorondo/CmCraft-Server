@@ -1,0 +1,35 @@
+# Citizens NPC Storage
+last-created-npc-id: 4
+npc:
+  '4':
+    metadata:
+      cached-skin-uuid: 9a593055-8861-4caa-b870-fbb41e84344d
+      cached-skin-uuid-name: segodnya
+    traits:
+      owner:
+        uuid: 42c3fc1a-776e-3425-a325-fdfa1b394525
+      scoreboardtrait:
+        tags:
+        - CITIZENS_NPC
+      hologramtrait: {
+        }
+      skintrait:
+        signature: SV/JpN2sbe6WiurGQ2t3sgLxwvfdkruTIg3pfypAyg+8KX6F9ydsuq3tkbRMTkHRgGJG87x3zOepNSwpnruwYsoTX0C0lYTnTXIQlMFtSRKw3MqYQQyKL/w9iCsoJtQto/tPsZkbfdoYWquHuHo1weF3F7D1TpfSB9kZkrrLiH8eNxAonllfXQkR2RELJIwQwsJBLDjZz80dHaf+gU9MxfJ9MeL2yxidzHcB8OtetT8rSF1S+E2UBlV0LHrDdSk7JqCDifwDTVozXKs7LE6a885nNHJCNitxiSbtf17J7h0fDJeJd3qO8YdG7cKECVMWcDAZS8K8XpxrKTs6vf4gJX8BatsYGPaFRifyk/rhA77IJl2OL4TayIcn77iMUs25fTzjWGMjxl91Z1CrLsVeXTwuTBUkv7yu2Mfo4c9mP6i8T2GZcY7RpfTA5iX68Kt4sFwa0b7rlowsrpY3pu6YB4lIFVP3NROTQ2vbdyrGHf0RDhZISsAsVEUi3t1gNPW1oenCMdkGOCA7Xo+r/Dgo2vHWCo36OP6ZtHhX68Zi5kqXOqb0Mp7bPxwqVin1+wWRWZryKI/aqqtf+x+AswKTb0WxGuR+/Dv5dkErszBHc3QNgWigiV4nrB0fXO7yn1DO+vT6hja2j40hnGrvURki0IJuh2TSat/vOk1z81DjycE=
+        skinName: '%ajlb_lb_swr_wins_1_daily_skin%'
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc2NzQyOTU0MTEwNywKICAicHJvZmlsZUlkIiA6ICI5YTU5MzA1NTg4NjE0Y2FhYjg3MGZiYjQxZTg0MzQ0ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZWdvZG55YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZGY0MDk1MzUwOTc1YTE3NWQ5ODQ0YmU1YmE4YTg1ZWNmN2I4MDM5Yjc2ZjA3YjM0YzI0ZjE5OGU2MmIyNmJjIgogICAgfQogIH0KfQ==
+      location:
+        worldid: cecb4fa1-4e5a-439d-b55b-1a18012d6604
+        x: -136.5
+        y: 108.0
+        z: 210.5
+        bodyYaw: -75.925606
+        pitch: -21.45
+        yaw: -75.9256
+      type: PLAYER
+    traitnames: owner,scoreboardtrait,spawned,hologramtrait,skintrait,location,type,inventory,chunktickettrait
+    name: '&e%ajlb_lb_swr_wins_1_daily_name%'
+    navigator:
+      usedefaultstuckaction: false
+      speedmodifier: 1.0
+      avoidwater: false
+    uuid: 074392af-7cdf-49ea-837d-cb1a6001f941

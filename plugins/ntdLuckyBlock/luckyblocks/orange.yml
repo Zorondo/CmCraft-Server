@@ -1,0 +1,122 @@
+texture: bd3a1436e0fd5f3e4d113a092c1d07a12e22d426c50183ccd62877d9cd885fbd
+name: '&6Orange LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : ZOMBIE : 3'
+  '1':
+  - 'ENTITY : WITHER_SKELETON : 2'
+  - 'ENTITY : BIRCH_BOAT : 4'
+  - 'ITEM : WITCH_SPAWN_EGG : 21 : 0'
+  - 'ITEM : WEATHERED_LIGHTNING_ROD : 16 : 0'
+  '2':
+  - 'ITEM : CANDLE : 16 : 0'
+  - 'ITEM : TERRACOTTA : 8 : 0'
+  '3':
+  - 'ITEM : PINK_BUNDLE : 1 : 0'
+  - 'SPECIAL : PIG : 19'
+  - 'ITEM : LIME_SHULKER_BOX : 1 : 0'
+  '4':
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 3'
+  - 'ITEM : BROWN_HARNESS : 1 : 0'
+  '5':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '6':
+  - 'ITEM : WAXED_EXPOSED_COPPER : 8 : 0'
+  '7':
+  - 'ENTITY : COMMAND_BLOCK_MINECART : 4'
+  - 'ITEM : BROWN_HARNESS : 1 : 0'
+  '8':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 4'
+  '9':
+  - 'ITEM : ACACIA_SIGN : 16 : 0'
+  '10':
+  - 'ITEM : MUSIC_DISC_PRECIPICE : 1 : 0'
+  - 'ITEM : DIAMOND : 58 : 0'
+  '11':
+  - 'ENTITY : COPPER_GOLEM : 1'
+  - 'ITEM : MUSIC_DISC_CAT : 1 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '12':
+  - 'ENTITY : HORSE : 4'
+  - 'ENTITY : LINGERING_POTION : 4'
+  - 'ENTITY : CAT : 3'
+  '13':
+  - 'ITEM : DIORITE_SLAB : 16 : 0'
+  - 'ENTITY : COW : 4'
+  - 'ITEM : SCULK_CATALYST : 64 : 0'
+  '14':
+  - 'ITEM : WEATHERED_COPPER_BULB : 32 : 0'
+  '15':
+  - 'ENTITY : SPAWNER_MINECART : 2'
+  - 'ENTITY : CAMEL : 2'
+  '16':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : OXIDIZED_COPPER_GRATE : 16 : 0'
+  '17':
+  - 'ITEM : MUSIC_DISC_CREATOR_MUSIC_BOX : 1 : 0'
+  '18':
+  - 'ITEM : GREEN_BED : 1 : 0'
+  '19':
+  - 'SPECIAL : LIGHTNING : 3'
+  '20':
+  - 'ITEM : NETHER_WART_BLOCK : 64 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '21':
+  - 'ENTITY : SNOW_GOLEM : 4'
+  '22':
+  - 'ENTITY : INTERACTION : 4'
+  - 'ENTITY : ENDERMITE : 3'
+  '23':
+  - 'ITEM : INK_SAC : 45 : 0'
+  - 'ENTITY : CHERRY_BOAT : 3'
+  - 'ENTITY : WITHER_SKULL : 4'
+  '24':
+  - 'ENTITY : SNIFFER : 4'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'SPECIAL : LIGHTNING : 3'
+  '25':
+  - 'ITEM : WEATHERED_CHISELED_COPPER : 32 : 0'
+  '26':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 3'
+  - 'ENTITY : CAMEL : 1'
+  - 'ITEM : BLAZE_POWDER : 59 : 0'
+  '27':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '28':
+  - 'ENTITY : BLOCK_DISPLAY : 4'
+  - 'ITEM : BEE_SPAWN_EGG : 22 : 0'
+  - 'ITEM : WRITTEN_BOOK : 5 : 0'
+  '29':
+  - 'ITEM : INFESTED_STONE : 32 : 0'
+  - 'ENTITY : TNT_MINECART : 1'
+  '30':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : BREEZE_WIND_CHARGE : 1'
+  '31':
+  - 'SPECIAL : LIGHTNING : 3'
+  '32':
+  - 'ENTITY : ENDER_PEARL : 2'
+  - 'ENTITY : TRADER_LLAMA : 1'
+  '33':
+  - 'ENTITY : ITEM_FRAME : 4'
+  - 'ITEM : RESIN_BRICK_SLAB : 8 : 0'
+  - 'ITEM : SAND : 16 : 0'
+  '34':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 3'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 3'
+  - 'ENTITY : MARKER : 4'
+  '35':
+  - 'ENTITY : WITHER : 3'
+  - 'ENTITY : ZOMBIE_VILLAGER : 4'
+eco: true
