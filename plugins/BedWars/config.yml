@@ -5,7 +5,7 @@ keep-inventory-on-death: false
 in-lobby-colored-leather-by-team: true
 jointeam-entity-show-name: true
 friendlyfire: false
-player-drops: true
+player-drops: false
 join-randomly-after-lobby-timeout: false
 prevent-killing-villagers: true
 compass-enabled: true
@@ -119,7 +119,7 @@ resources:
     material: GOLD_INGOT
     color: GOLD
     name: Gold
-    interval: 20
+    interval: 60
     translate: resource_gold
     spread: 1.0
   iron:
@@ -130,9 +130,9 @@ resources:
     translate: resource_iron
     spread: 1.0
   bronze:
-    material: BRICK
+    material: COPPER_INGOT
     color: DARK_RED
-    name: Bronze
+    name: Медь
     interval: 1
     translate: resource_bronze
     spread: 1.0

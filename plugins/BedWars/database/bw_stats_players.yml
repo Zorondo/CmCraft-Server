@@ -39,6 +39,14 @@ data:
     name: omni_keycard
     destroyedBeds: 1
     deaths: 0
+  8f07b9eb-79a7-3a5a-a84a-af8d4770ea62:
+    kills: 0
+    wins: 1
+    score: 150
+    loses: 0
+    name: noWiFi
+    destroyedBeds: 0
+    deaths: 0
   42c3fc1a-776e-3425-a325-fdfa1b394525:
     kills: 1
     wins: 1

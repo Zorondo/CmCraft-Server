@@ -3,8 +3,8 @@ last-created-npc-id: 4
 npc:
   '4':
     metadata:
-      cached-skin-uuid: 9a593055-8861-4caa-b870-fbb41e84344d
-      cached-skin-uuid-name: segodnya
+      cached-skin-uuid: 2519344d-f874-4914-a2ee-4cde53088384
+      cached-skin-uuid-name: wifi1
     traits:
       owner:
         uuid: 42c3fc1a-776e-3425-a325-fdfa1b394525
@@ -14,9 +14,9 @@ npc:
       hologramtrait: {
         }
       skintrait:
-        signature: SV/JpN2sbe6WiurGQ2t3sgLxwvfdkruTIg3pfypAyg+8KX6F9ydsuq3tkbRMTkHRgGJG87x3zOepNSwpnruwYsoTX0C0lYTnTXIQlMFtSRKw3MqYQQyKL/w9iCsoJtQto/tPsZkbfdoYWquHuHo1weF3F7D1TpfSB9kZkrrLiH8eNxAonllfXQkR2RELJIwQwsJBLDjZz80dHaf+gU9MxfJ9MeL2yxidzHcB8OtetT8rSF1S+E2UBlV0LHrDdSk7JqCDifwDTVozXKs7LE6a885nNHJCNitxiSbtf17J7h0fDJeJd3qO8YdG7cKECVMWcDAZS8K8XpxrKTs6vf4gJX8BatsYGPaFRifyk/rhA77IJl2OL4TayIcn77iMUs25fTzjWGMjxl91Z1CrLsVeXTwuTBUkv7yu2Mfo4c9mP6i8T2GZcY7RpfTA5iX68Kt4sFwa0b7rlowsrpY3pu6YB4lIFVP3NROTQ2vbdyrGHf0RDhZISsAsVEUi3t1gNPW1oenCMdkGOCA7Xo+r/Dgo2vHWCo36OP6ZtHhX68Zi5kqXOqb0Mp7bPxwqVin1+wWRWZryKI/aqqtf+x+AswKTb0WxGuR+/Dv5dkErszBHc3QNgWigiV4nrB0fXO7yn1DO+vT6hja2j40hnGrvURki0IJuh2TSat/vOk1z81DjycE=
+        signature: ANtfHDYgepQk7gYYl5IUSBSUMH5Ju/mWhuquEUZu0Ti9fncIp8GbLb9hWxvxGWxhd3ESBGN1OkGrAfjaDZPKtd0O+KpWxLl+6ADH1WUVrpR0GLV2GXv01EAY3PL8cr/D9rMXkwqq9sW3XFx6rEYvYOjM2+a1zFZRGsrWIZU6o2pA/fM94n6O2CT+WPkjOZYNY6+SYxkBdszVTMXOF61uXveo3x/MepjOy/EtnRPgv5gSzFMe+kkiQ3gTg9/xbfqthFrPvI6/bvmZ9fS2h0OpPGKjNF5P500lytuoaan2cBXOOP6U/4cOJkd1NC6l7Pv1GTmjDeT2ltsRPGsrTuffNXmtkR4Rjk8WZHE4iqWa2F3T9tIObkS28I/BlCaswRWdm//5cceBu20Dv0CoiKHcxD0Npqu+flhnKULrk8pkoffvy4zgotWKqkrTO1bJU+yonpR3hlG0+YdowpOLsyvJOdkiTDtruTUL20Y6GNu29TNcULRDEMzoC9q0D6UaSduZEAlTg8ODJgX0UAB/EYic3j2tCG2aE4giHiDBAF2VtBlXyyiV7oQTPWkfVranb4FjD/2p5o0cMqXhuoZn9Nk0lCTUv7XFbs9dd8SaxDTX4+H03OfzIT0JT+VmfX7MtLTxBrpSpx6WzN8ePUkdx9uVohoyeVymkfCDf9n9QAszMMU=
         skinName: '%ajlb_lb_swr_wins_1_daily_skin%'
-        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc2NzQyOTU0MTEwNywKICAicHJvZmlsZUlkIiA6ICI5YTU5MzA1NTg4NjE0Y2FhYjg3MGZiYjQxZTg0MzQ0ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZWdvZG55YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZGY0MDk1MzUwOTc1YTE3NWQ5ODQ0YmU1YmE4YTg1ZWNmN2I4MDM5Yjc2ZjA3YjM0YzI0ZjE5OGU2MmIyNmJjIgogICAgfQogIH0KfQ==
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc2OTY5ODkxNzMxNSwKICAicHJvZmlsZUlkIiA6ICIyNTE5MzQ0ZGY4NzQ0OTE0YTJlZTRjZGU1MzA4ODM4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aWZpMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYzBmY2ZhZjJhYTA0MGE4M2RjMGRlNGU1NjA1OGQxYmJiMmVhNDAxNTc1MDFmM2U3ZDE1ZGMyNDVlNDkzMDk1IgogICAgfQogIH0KfQ==
       location:
         worldid: cecb4fa1-4e5a-439d-b55b-1a18012d6604
         x: -136.5

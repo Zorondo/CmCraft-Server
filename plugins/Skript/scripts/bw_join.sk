@@ -1,0 +1,18 @@
+command /bwmassjoin <text>:
+    description: Принудительно заводит всех игроков на указанную арену BedWars
+    permission: admin.bw.massjoin
+    permission message: &cУ вас нет прав на использование этой команды!
+    usage: /bwmassjoin [имя_арены]
+    trigger:
+        if arg-1 is set:
+            send "&aЗапуск всех игроков на арену &e%arg-1%&a..." to player
+
+            # Начинаем цикл по всем игрокам онлайн
+            loop all players:
+                # Заставляем каждого игрока выполнить команду захода
+                # [player] означает, что команда выполняется от лица игрока
+                make loop-player execute command "bw join %arg-1%"
+
+            send "&7Команда выполнена для всех игроков." to player
+        else:
+            send "&cОшибка: Укажите название арены! Пример: /bwmassjoin sky" to player

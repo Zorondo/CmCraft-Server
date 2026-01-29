@@ -1,0 +1,4 @@
+on join:
+    send "&aДобро пожаловать на сервер, %player%!" to player
+on join:
+    set join message to "&eИгрок %player% присоединился к нам!"

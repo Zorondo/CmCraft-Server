@@ -149,7 +149,7 @@ data:
         
         flame: 1
         punch: 1
-   - arrow for 5 of iron
+   - arrow for 5 of bronze
 
 - stack: "cooked_porkchop;1;Eat;Are you hungry? Get something to eat."
   row: 3
@@ -157,7 +157,7 @@ data:
   items:
    - cooked_porkchop;2 for 4 of bronze
   
-   - bread;10 for 5 of gold
+   - bread;10 for 5 of bronze
 
 - stack:
     type: potion
@@ -340,14 +340,14 @@ data:
      stack:
       type: iron_pickaxe
       enchants:
-        fortune: 1
+        efficiency: 1
    - price: 2 of iron
      stack:
       type: iron_pickaxe
       enchants:
-        fortune: 2
+        efficiency: 2
    - price: 1 of gold
      stack:
       type: iron_pickaxe
       enchants:
-        fortune: 3
+        efficiency: 3

@@ -16,3 +16,16 @@ map_bedwars
 forest
 cache
 logs
+wepif.yml
+whitelist.json
+usercache.json
+ops.json
+banned-players.json
+banned-ips.json
+held.yml
+commands.yml
+version_history.json
+spigot.yml
+permissions.yml
+bukkit.yml
+
