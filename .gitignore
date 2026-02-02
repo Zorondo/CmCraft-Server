@@ -14,4 +14,4 @@ help.yml
 commands.yml
 version_history.json
 permissions.yml
-*.jar
+server.jar
