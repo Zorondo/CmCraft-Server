@@ -1,0 +1,17 @@
+world
+maps/
+libraries
+debug
+cache
+logs
+wepif.yml
+whitelist.json
+usercache.json
+ops.json
+banned-players.json
+banned-ips.json
+help.yml
+commands.yml
+version_history.json
+permissions.yml
+*.jar
