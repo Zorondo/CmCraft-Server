@@ -38,7 +38,7 @@ data:
 # Value 'applycolorbyteam' is used for automatic-coloring-in-shop.
 # See WarpPowder for more info.
 
-- stack: "diamond_chestplate;1;Armor;Protect yourself with armor! Click here."
+- stack: "diamond_chestplate;1;Броня;Защитите себя"
   items:
    - price: 1 of bronze
      properties: "applycolorbyteam"
@@ -80,7 +80,7 @@ data:
       enchants:
         protection: 2
        
-- stack: "diamond_sword;1;Swords;Click here to get sword for attacking your enemies"
+- stack: "diamond_sword;1;Мечи;Бейте врагов"
   column: center
   items:
    - price: 8 of bronze
@@ -118,7 +118,7 @@ data:
         unbreaking: 1
         knockback: 1
        
-- stack: "bow;1;Bows;Prove yourself as a marksman with these wonderful bows"
+- stack: "bow;1;Луки и стрелы;Прослывите стрелком"
   column: right
   items:
    - price: 3 of gold
@@ -151,7 +151,7 @@ data:
         punch: 1
    - arrow for 5 of bronze
 
-- stack: "cooked_porkchop;1;Eat;Are you hungry? Get something to eat."
+- stack: "cooked_porkchop;1;Еда;Проголодались? Поешьте."
   row: 3
   column: 2
   items:
@@ -161,9 +161,9 @@ data:
 
 - stack:
     type: potion
-    display-name: "Drinks"
+    display-name: "Зелья"
     lore:
-      - "Not enough? Use these potions and you'll feel better!"
+      - "С ними — лучше"
     potion-type: strength
   row: 3
   column: 6
@@ -189,7 +189,7 @@ data:
         potion-type: regeneration
       price: 10 of gold
 
-- stack: "sandstone;1;Blocks;Get to the others! Possible with blocks."
+- stack: "sandstone;1;Блоки;Нужно построить зиккурат"
   linebreak: before
   items:
    - cut_sandstone;2 for 1 of bronze
@@ -200,13 +200,13 @@ data:
      properties: "applycolorbyteam"
      stack: glass
 
-- stack: "tnt;1;Useful Stuff;Looking for useful stuff? Here are some!"
+- stack: "tnt;1;Утилиты;"
   column: center
   items:
    - chest for 1 of iron
    - ender_chest for 1 of gold
    - price: 3 of iron
-     stack: "tnt;1;Autoigniteable TNT"
+     stack: "tnt;1;Зажжённый динамит"
      properties:
       - name: "AutoIgniteableTnt"
         explosion-time: 5
@@ -217,11 +217,11 @@ data:
         delay: 6
      stack:
       type: gunpowder
-      display-name: "Warp Powder"
+      display-name: "Возврат"
       lore:
-       - "When using this powder you'll get"
-       - "teleported to you spawn point within 6 seconds"
-       - "Warning: Any movement will stop the process"
+       - "При использовании вернёт вас"
+       - "на ваш остров за 6 секунд."
+       - "Осторожно: в процессе вы будете неподвижны."
    - price: 3 of iron
      properties:
       - name: "Trap"
@@ -250,59 +250,53 @@ data:
             icon: true
      stack:
       type: string
-      display-name: "Trap"
+      display-name: "Ловушка"
       lore:
-       - "Get informed if an enemy steps on your trap"
-       - "and your enemy won't be able to move properly."
+       - "Замедляет наступившего врага"
+       - "и оповещает вас"
    - price: 6 of iron
      properties:
       - name: "MagnetShoes"
         probability: 75
      stack:
       type: iron_boots
-      display-name: "Magnet-Shoes"
+      display-name: "Магнитные ботинки"
       lore:
-       - "Wear those shoes and have a 75%"
-       - "chance of getting no knockback!"
+       - "С вероятностью 75%"
+       - "удары по вам пройдут без отдачи"
    - price: 5 of iron
      properties: "Tracker"
      stack:
       type: compass
-      display-name: "Tracker"
+      display-name: "Трекер"
       lore:
-       - "Wanna know where your closest target is?"
-       - "Let's try this out!"
+       - "Показывает ближайшего врага"
    - price: 15 of iron
      properties:
       - name: "rescueplatform"
         delay: 5
      stack:
       type: blaze_rod
-      display-name: "Rescue Platform"
+      display-name: "Спасательная платформа"
       lore:
-       - "Protect yourself from falling into"
-       - "void with a Rescue Platform."
-       - "This is your last hope!"
+       - "Защищает от падения в бездну"
    - price: 5 of gold
      properties:
       - name: "arrowblocker"
         delay: 5
      stack:
       type: ender_eye
-      display-name: "Arrow Blocker"
+      display-name: "Блокировщик стрел"
       lore:
-       - "Block arrows that are coming"
-       - "for you with black magic."
-       - "I mean, with this item."
+       - "Блокирует летящие в вас стрелы"
    - price: 64 of bronze
      properties:
       - name: "protectionwall"
      stack:
       type: bricks
-      display-name: "Protection Wall"
+      display-name: "Стена защиты"
       lore:
-       - "Instantly builds a wall that"
-       - "can save your life!"
+       - "Моментально строит стену"
    - price: 24 of iron
      properties:
       - name: "Golem"
@@ -310,30 +304,26 @@ data:
         follow-range: 16.0
      stack:
       type: ghast_spawn_egg
-      display-name: "Golem"
+      display-name: "Голем"
       lore:
-       - "An iron golem that will protect"
-       - "your team from the enemies."
+       - "Защищает вашу команду"
    - price: 10 of gold
      properties: "TNTSheep"
      stack:
       type: sheep_spawn_egg
-      display-name: "TNT Sheep"
+      display-name: "Кирим Кумбасар"
       lore:
-       - "Use the TNT-Sheep! It will"
-       - "walk towards your closest enemy"
-       - "and explode within 8 seconds!"
+       - "Взрывается через 8 секунд,"
+       - "бежит к ближайшему врагу"
    - price: 40 of iron
      properties: "ThrowableFireball"
      stack:
        type: fire_charge
-       display-name: "Fireball"
+       display-name: "Файерболл"
        lore:
-         - "Is it a bird? Is it a plane?"
-         - "By the time you know"
-         - "you are dead!"
+         - "Это птица? Это самолёт?"
 
-- stack: "diamond_pickaxe;1;Pickaxes;Destroy others blocks? Use these pickaxes."
+- stack: "diamond_pickaxe;1;Кирки;Ломайте ими"
   column: right
   items:
    - price: 4 of bronze
