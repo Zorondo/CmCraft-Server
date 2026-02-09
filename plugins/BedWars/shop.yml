@@ -38,7 +38,7 @@ data:
 # Value 'applycolorbyteam' is used for automatic-coloring-in-shop.
 # See WarpPowder for more info.
 
-- stack: "diamond_chestplate;1;Броня;Защитите себя"
+- stack: "chainmail_chestplate;1;Броня;Защитите себя"
   items:
    - price: 1 of bronze
      properties: "applycolorbyteam"
@@ -80,7 +80,7 @@ data:
       enchants:
         protection: 2
        
-- stack: "diamond_sword;1;Мечи;Бейте врагов"
+- stack: "golden_sword;1;Мечи;Бейте врагов"
   column: center
   items:
    - price: 8 of bronze
@@ -323,7 +323,7 @@ data:
        lore:
          - "Это птица? Это самолёт?"
 
-- stack: "diamond_pickaxe;1;Кирки;Ломайте ими"
+- stack: "iron_pickaxe;1;Кирки;Ломайте ими"
   column: right
   items:
    - price: 4 of bronze
