@@ -55,3 +55,11 @@ data:
     name: WiFi1
     destroyedBeds: 0
     deaths: 1
+  85f079a3-2667-3d77-be4f-090e37f623e0:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 0
+    name: NoWiFi
+    destroyedBeds: 0
+    deaths: 0
