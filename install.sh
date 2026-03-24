@@ -11,6 +11,11 @@ start_server() {
     bash start.sh
 }
 
+# Установка карт
+download_map() {
+    (cd bash_scripts && bash map.sh)
+}
+
 # Установка ядра
 download_core() {
     (cd bash_scripts && bash core.sh)
@@ -59,8 +64,12 @@ do
             download_core
             download_plugins
             download_mirror
+            download_map
             ;;
+        
         6)
+            download_map
+        7)
             break
             ;;
         *)
