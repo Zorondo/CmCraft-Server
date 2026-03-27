@@ -2,8 +2,8 @@
 # скачивание файла
 cd ../
 
-curl -L -o map.zip https://www.dropbox.com/scl/fi/sh8fu7r084s6ue5gpxnsq/maps.zip?rlkey=dozr6vmpkn5bo05u5lx50uub2&st=or14isbs&dl=1
-unzip map.zip
+curl -L -o map.tar.gz https://www.dropbox.com/scl/fi/njtpmpqv75vb4u7lvf66v/maps.tar.gz?rlkey=524xflqqlnsoa7sryp23rto6j&st=f8co2csq&dl=1
+tar -xzvf map.tar.gz
 
 # переносим миры
 
