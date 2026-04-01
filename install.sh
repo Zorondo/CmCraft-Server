@@ -11,6 +11,11 @@ start_server() {
     bash start.sh
 }
 
+# Установка зависимостей
+download_java(){
+    (cd bash_scripts && bash install_java.sh)
+}
+
 # Установка карт
 download_map() {
     (cd bash_scripts && bash map.sh)
@@ -43,7 +48,8 @@ do
 4) Обновить Github репозиторий
 5) Скачать все
 6) Скачать карты
-7) Выход
+7) Скачать зависимости
+8) Выход
 "
 
     read -p "Выбор: " choice
@@ -66,12 +72,18 @@ do
             download_plugins
             download_mirror
             download_map
+            download_java
             ;;
         
         6)
             download_map
             ;;
+
         7)
+            download_java
+            ;;
+            
+        8)
             break
             ;;
         *)
