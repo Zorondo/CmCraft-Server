@@ -33,7 +33,7 @@ download_plugins() {
 
 # Обновление репозитория
 download_mirror() {
-    echo "Обновление репозитория..."
+    (cd bash_scripts && bash git_pull.sh)
 }
 
 while true
@@ -82,7 +82,7 @@ do
         7)
             download_java
             ;;
-            
+
         8)
             break
             ;;

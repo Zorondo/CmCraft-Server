@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-echo "Обновление репозитория"
 
 if ! command -v git >/dev/null 2>&1; then
     echo "Git не найден. Устанавливаю..."
@@ -27,5 +26,5 @@ fi
 
 
 if ! command -v git >/dev/null 2>&1; then
-    git clone https://github.com/Zorondo/CmCraft-Server.git
+    git clone https://github.com/Zorondo/CMCraft-Minigames.git
 fi

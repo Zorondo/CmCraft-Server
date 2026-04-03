@@ -2,7 +2,7 @@
  
 echo "Устанавливаем зависимости"
 
-if ! command -v git >/dev/null 2>&1; then
+if ! command -v java --version >/dev/null 2>&1; then
     echo "Java не найдена. Устанавливаю..."
 
     if command -v apt >/dev/null 2>&1; then
@@ -22,7 +22,7 @@ else
 fi
 
 
-if ! command -v git >/dev/null 2>&1; then
+if ! command -v tmux --version >/dev/null 2>&1; then
     echo "tmux не найден. Устанавливаю..."
 
     if command -v apt >/dev/null 2>&1; then
